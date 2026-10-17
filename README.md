@@ -1,0 +1,1 @@
+The Sentiment Analysis & Emoji App reads any piece of text (a review, tweet, comment or message) and predicts the emotion behind it: Positive, Negative or Neutral. The result is then shown with a matching emoji, so you understand the mood at a glance.
